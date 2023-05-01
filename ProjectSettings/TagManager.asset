@@ -11,8 +11,8 @@ TagManager:
   - Culling
   - Water
   - UI
-  - 
-  - 
+  - PostProcess
+  - MiniMap
   - 
   - 
   - 

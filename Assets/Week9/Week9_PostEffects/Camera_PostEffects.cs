@@ -29,7 +29,8 @@ public class Camera_PostEffects : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(GetComponent<Camera>().enabled)
+        
+        if (GetComponent<Camera>().enabled)
         {
             return;
         }
@@ -40,6 +41,7 @@ public class Camera_PostEffects : MonoBehaviour
     {
         if(myShader != null)
         {
+            
             Graphics.Blit(source, destination, myMaterial, 0);
         }
     }

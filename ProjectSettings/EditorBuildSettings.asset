@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Week12/week12_chatting_Start.unity
+    guid: 6fa9cea5d52f7cf40ab277b7646dbf2a
+  - enabled: 1
+    path: Assets/Week12/week12_chatting_Finish.unity
+    guid: 0ee0775c64347e747a1ccaa4d175d372
   m_configObjects: {}

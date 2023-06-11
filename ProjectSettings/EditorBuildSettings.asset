@@ -6,9 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Week12/week12_chatting_Start.unity
-    guid: 6fa9cea5d52f7cf40ab277b7646dbf2a
-  - enabled: 1
-    path: Assets/Week12/week12_chatting_Finish.unity
-    guid: 0ee0775c64347e747a1ccaa4d175d372
+    path: Assets/Final/Soccer.unity
+    guid: 71ccb3a33bc22fd459fe3c83714c10dd
   m_configObjects: {}

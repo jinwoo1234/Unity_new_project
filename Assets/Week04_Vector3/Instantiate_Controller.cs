@@ -6,7 +6,6 @@ public class Instantiate_Controller : MonoBehaviour
 {
     public GameObject MyCylinder;
     public Transform StartPosition;
-    int ClickCount = 0;
     void Start()
     {
         

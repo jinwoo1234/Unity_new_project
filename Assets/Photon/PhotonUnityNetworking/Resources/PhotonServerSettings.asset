@@ -42,6 +42,13 @@ MonoBehaviour:
   - Shoot
   - Damage
   - UpdateMessage
+  - RotateView
+  - Start
+  - UpdateCameraPosition
+  - OnTriggerEnter
+  - SyncScore
+  - OnCollisionEnter
+  - WaitPlayer
   DisableAutoOpenWizard: 1
   ShowSettings: 1
   DevRegionSetOnce: 1
